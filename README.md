@@ -1,3 +1,5 @@
+# BASE SC GOS 
+<img src="https://github.com/Tanmyname-py/GOS/blob/main/data/image/thumb.jpg" alt="Gos icon">
 # HOW RUN BOT IN TERMUX 
 ## INSTALASION PKG
 **COPY THIS COMMAND 👇** 
