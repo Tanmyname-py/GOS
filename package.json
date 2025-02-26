@@ -1,6 +1,6 @@
 {
   "name": "GOS",
-  "version": "1.2",
+  "version": "2025.3.27",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "system.js",
   "type": "commonjs",
