@@ -69,3 +69,10 @@ npm install
 npm start
 ```
 **Enter your number according to your country number and WhatsApp bots ready for use** 
+
+#### Support Me
+- [Saweria](https://saweria.co/Supporttann)
+
+##### Create By
+
+| [![Nazedev](https://d.top4top.io/p_3344id5oy0.png)](https://github.com/Tanmyname-py)
