@@ -74,5 +74,6 @@ npm start
 - [Saweria](https://saweria.co/Supporttann)
 
 ##### Create By
-
+| ----------------------------------------------------------------------------------------|
 | [![TAN](https://github.com/Tanmyname-py.png?size=100)](https://github.com/Tanmyname-py) |
+| ----------------------------------------------------------------------------------------|
