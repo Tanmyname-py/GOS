@@ -69,11 +69,23 @@ npm install
 npm start
 ```
 **Enter your number according to your country number and WhatsApp bots ready for use** 
-
+#### Run instans with git
+```sh
+git clone https://github.com/Tanmyname-py/GOS/tree/main
+```
+```sh
+cd GOS
+```
+```
+npm install 
+```
+```
+npm start 
+```
 #### Support Me
 - [Saweria](https://saweria.co/Supporttann)
 
-##### Create By
+#### Create By
 | [![TAN](https://github.com/Tanmyname-py.png?size=100)](https://github.com/Tanmyname-py) |
 | ------------------------------- |
 | [TAN](https://github.com/Tanmyname-py) |
