@@ -77,4 +77,3 @@ npm start
 | [![TAN](https://github.com/Tanmyname-py.png?size=100)](https://github.com/Tanmyname-py) |
 | ------------------------------- |
 | [TAN](https://github.com/Tanmyname-py) |
-| ------------------------------- |
