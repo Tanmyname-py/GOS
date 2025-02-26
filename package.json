@@ -26,7 +26,8 @@
     "@hapi/boom": "^10.0.1",
     "@imgproxy/imgproxy-js-core": "^1.0.8",
     "@saipulanuar/jadianime-ts": "^2.0.0",
-    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@^8.4.7",
+    "@whiskeysockets/baileys": "npm:@baileys-md/stable
+^9.0.0",
     "api-dylux": "^1.4.4",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^0.24.0",
