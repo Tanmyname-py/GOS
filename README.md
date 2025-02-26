@@ -75,4 +75,4 @@ npm start
 
 ##### Create By
 
-| [![Nazedev](https://d.top4top.io/p_3344id5oy0.png)](https://github.com/Tanmyname-py)
+| [![Nazedev](https://d.top4top.io/p_3344id5oy0.png?size=100)](https://github.com/Tanmyname-py)
