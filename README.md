@@ -1,5 +1,4 @@
 # BASE SC GOS 
-<img src="https://github.com/Tanmyname-py/GOS/blob/main/data/image/thumb.jpg" alt="Gos icon">
 # HOW RUN BOT IN TERMUX 
 ## INSTALASION PKG
 **COPY THIS COMMAND 👇** 
@@ -69,3 +68,4 @@ npm install
 npm start
 ```
 **Enter your number according to your country number and WhatsApp bots ready for use** 
+<img src="https://github.com/Tanmyname-py/GOS/blob/main/data/image/thumb.jpg" alt="Gos icon">
