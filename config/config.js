@@ -1,4 +1,4 @@
-import { getContentType } from "@whiskeysockets/baileys";
+import { getContentType, downloadMediaMessage } from "@whiskeysockets/baileys";
 import fs from "fs";
 import settings from "./setting.js";
 import {
