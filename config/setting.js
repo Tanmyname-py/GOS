@@ -13,7 +13,7 @@ const  settings = {
    author : "@Tan",
    botName : "Gos",
    version : "1.0.0",
-   superOwner : `62628262726272`,
+   superOwner : ``,
    month,
    day,
    time : `${hours < 10 ? '0' + hours.toString() : hours }:${minute}`,
